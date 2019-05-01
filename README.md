@@ -5,6 +5,6 @@ Wine Quality Testing (rating wine using several chemical features out of 10) wit
 
 Calculating the accuracy of predicted profits of start-ups with "50_startups.csv" file using Multiple Linear Regression.
 
-Simple Linear Regression with "SabSal.csv" file.
+Predicting the salary given their experience (in years) with "SabSal.csv" file using Simple Linear Regression and plotting the fit of the model.
 
 K- Nearest Neighbor with "BalanceScale.csv" file.
