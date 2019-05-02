@@ -9,4 +9,4 @@ Machine learning models using Python on various datasets.
 
 *Given the left weight,left position, right weight and right position of an object on a scale predict if it is balanced or inclined using K- Nearest Neighbor with "BalanceScale.csv" file.
 
-*Using decision tree to predict the income using several features with "Adult_Income.csv" file.
+*Using decision tree to predict the income and generate decision tree using several features with "Adult_Income.csv" file.
